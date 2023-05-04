@@ -22,3 +22,6 @@ while [ $SECONDS -lt $end ]; do
 echo "$TIMESTAMP$CPU$MEMORY$DISK$"
 sleep 5
 done
+
+
+
